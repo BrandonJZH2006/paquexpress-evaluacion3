@@ -1,3 +1,6 @@
+Favor de leer en RAW
+
+
 📦 Paquexpress – Sistema de Entregas con Evidencia (FastAPI + Flutter + MySQL)
 Proyecto desarrollado como parte de la Evaluación Unidad 3, integrando una aplicación móvil/web para agentes de entrega, una API REST en FastAPI y una base de datos estructurada en MySQL.
 Incluye:
@@ -116,3 +119,6 @@ paquexpress-evaluacion3/
       Pruebas de integraciones
       Código modular y listo para escalar.
       Backend y app conectados completamente.
+
+Desarrollado por:
+Brandon Josué Zúñiga Hernández
